@@ -39,7 +39,7 @@ const HeroSection: React.FC = () => {
 
 
     return (
-        <section id="home" className="h-screen flex items-center justify-center text-center bg-gray-900">
+        <section id="home" className="pt-40 pb-24 md:pt-56 md:pb-40 flex items-center justify-center text-center bg-gray-900">
             <div className="relative z-10 p-4">
                 <h1 className="text-5xl md:text-7xl font-bold mb-4">
                     Olá, eu sou <span className="text-cyan-400">Gilvan Souza</span>
