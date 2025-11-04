@@ -10,7 +10,7 @@
     "lint": "tsc --noEmit",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "npm run deploy"
   },
   "dependencies": {
     "react": "^18.2.0",
